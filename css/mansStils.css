@@ -13,3 +13,10 @@ p{
 body{
     background-color:pink;
 }
+.navbar {
+  overflow: hidden;
+  background-color:red;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
