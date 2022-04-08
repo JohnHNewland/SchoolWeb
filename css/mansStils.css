@@ -1,0 +1,22 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Mar 4, 2022, 10:01:51 AM
+    Author     : jhjaunzems
+*/
+
+p{
+    color:blue;
+}
+body{
+    background-color:pink;
+}
+.navbar {
+  overflow: hidden;
+  background-color:red;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
